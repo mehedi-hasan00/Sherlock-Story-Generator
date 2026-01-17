@@ -7,13 +7,13 @@ A Deep Learning based **Next Word Prediction** project trained on Sherlock Holme
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-🌐 **Live App:** [https://your-app-name.streamlit.app](https://your-app-name.streamlit.app)
+🌐 **Live App:** [https://sherlock-holmes-story-generator.streamlit.app/](https://sherlock-holmes-story-generator.streamlit.app/)
 
 ---
 
 ## 🚀 Live Demo
 
-🔗 **Streamlit App:** [https://your-app-name.streamlit.app](https://your-app-name.streamlit.app)
+🔗 **Streamlit App:** [https://sherlock-holmes-story-generator.streamlit.app/](https://sherlock-holmes-story-generator.streamlit.app/)
 
 Run the Streamlit app to generate your own mystery-style text.
 
