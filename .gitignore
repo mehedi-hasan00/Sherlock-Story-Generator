@@ -18,9 +18,5 @@ venv/
 .DS_Store
 Thumbs.db
 
-# Large model / tokenizer
-sherlock.keras
-tokenizer.pickle
-
 # Logs
 *.log
