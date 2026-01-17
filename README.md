@@ -51,7 +51,7 @@ Built using **Keras / TensorFlow**:
 
 * Loss Function: `sparse_categorical_crossentropy`
 * Optimizer: `Adam`
-* Training Accuracy: ~73% (balanced for creativity)
+* Training Accuracy: ~74% (balanced for creativity)
 
 ---
 
@@ -115,8 +115,8 @@ protobuf==5.29.0
 ## 📊 Performance
 
 * Epochs: 100
-* Training Accuracy: ~73%
-* Loss: ~0.99
+* Training Accuracy: ~74%
+* Loss: ~0.94
 
 The model avoids strict memorization and produces creative outputs consistent with the mystery genre.
 
